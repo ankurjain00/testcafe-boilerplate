@@ -1,0 +1,23 @@
+{
+  "name": "testcafe-boilerplate",
+  "version": "1.0.0",
+  "description": "testcafe boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurjain00/testcafe-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankurjain00/testcafe-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ankurjain00/testcafe-boilerplate#readme",
+  "dependencies": {
+    "testcafe": "^2.3.0"
+  }
+}
